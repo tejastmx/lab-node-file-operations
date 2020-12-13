@@ -1,0 +1,6 @@
+PERSONAL DETAILS
+name ->                tejas
+year ->                2020
+qualification ->       BE
+username ->            HP_15_DK0093AU
+password ->            c6c596e44645bf6408280120367375be79ec9d6c546ebc47423dda3f92e1c8fa
